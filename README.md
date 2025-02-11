@@ -16,7 +16,7 @@ Here are some of my most recent data analytics projects:
 
 ## 🔗 Let's Connect
 
-- [LinkedIn](Your LinkedIn Profile)
-- [Email](Your Email)
+- [LinkedIn] https://www.linkedin.com/in/keith-p-mcnamara/
+
 
 
