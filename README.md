@@ -30,7 +30,6 @@ Here are some of my key data analytics projects:
   ```bash
   git clone https://github.com/keithmmc/dataprojects.git
 
-- 
   
 - **[Applied Statistics](https://github.com/keithmmc/appliedstats)**: This repository showcases my knowledge in applied statistics, where I use statistical methods to analyze and interpret real-world data.
 
