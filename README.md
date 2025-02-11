@@ -24,10 +24,6 @@ Here are some of my key data analytics projects:
   ```bash
   git clone https://github.com/keithmmc/dataprojects.git
 
- ## 💻 Showcase Repositories:
-
-Here are some of my key data analytics projects:
-
 - **[Data Projects](https://github.com/keithmmc/dataprojects)**: A collection of various data analysis projects I've worked on, demonstrating a range of skills including data cleaning, analysis, and visualization.
 
 - **How to Clone**:
