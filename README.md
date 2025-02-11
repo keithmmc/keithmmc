@@ -1,22 +1,14 @@
-# Hi there 👋 I'm Keith 
+# Hello, I'm Keith! 👋
 
-I'm a recent graduate from ATU with a passion for **Data Analytics**. I’m always excited to work with data to uncover insights and solve problems using various analytical techniques and tools. I enjoy learning about new technologies and applying them to real-world challenges. Currently, I am focusing on expanding my expertise in:
+I'm a recent graduate of ATU with a strong passion for data analytics. I love turning raw data into valuable insights, uncovering patterns, and using data to drive decisions. I have a solid foundation in Python, SQL, and statistical analysis, with hands-on experience in data visualization and machine learning.
 
-- Data Analysis & Visualization
-- Machine Learning
-- Statistical Modeling
-- Python, SQL, R, C, php, go, 
+Feel free to check out my projects below and get in touch via [LinkedIn] https://www.linkedin.com/in/keith-p-mcnamara/
 
-## 📈 Recent Projects
+## Technologies & Tools:
+- **Languages**: Python, SQL, R, go, c, php, 
+- **Tools & Libraries**: Pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter, Excel, Scipi. flask, node, django, laravel
 
-Here are some of my most recent data analytics projects:
-
-- **[Project 1: Data Visualization with Python](Link to Project)** – A project where I created interactive visualizations to represent data insights.
-- **[Project 2: Predictive Modeling using Machine Learning](Link to Project)** – I built and trained models to predict trends based on historical data.
-
-## 🔗 Let's Connect
-
-- [LinkedIn] https://www.linkedin.com/in/keith-p-mcnamara/
+- 
 
 
 
